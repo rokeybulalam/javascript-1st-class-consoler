@@ -9,7 +9,7 @@ var number = 1;
 //     number++;
 // }while(number<10);
 
-while(number<14){
+while(number<14) {
     console.log(number);
     number++;
 }
